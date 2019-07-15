@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Author: Zekinah Joy Lecaros
+ * Copyright © 2016 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceBlock name="logo">
+            <arguments>
+                <argument name="logo_file" xsi:type="string">images/zone_logo.png</argument>
+            </arguments>
+            </referenceBlock>
+        <remove name="report.bugs"/>
+    </body>
+</page>
