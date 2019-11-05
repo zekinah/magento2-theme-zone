@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+      <css src="css/style.css"/>
+      <css src="css/responsive.css"/>
+      <css src="https://use.fontawesome.com/releases/v5.7.1/css/all.css" src_type="url"/>
+      <link src="js/scripts.js"/>
+      <link src="Magento_Theme/js/custom-slider.js"/>
+    </head>
+</page>
