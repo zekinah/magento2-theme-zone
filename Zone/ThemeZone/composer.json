@@ -1,12 +1,18 @@
 {
-    "name": "magento/themezone",
-    "description": "N/A",
+    "name": "zekinah/magento2-theme-zone",
+    "description": "Magento 2 Child Theme from Luma starter pack",
+    "type": "magento2-theme",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.3|~7.2.0",
         "magento/theme-frontend-luma": "*",
         "magento/framework": "*"
     },
-    "type": "magento2-theme",
+    "repositories": [
+        {
+          "type": "composer",
+          "url": "https://repo.magento.com/"
+        }
+    ],
     "version": "1.0.0",
     "license": [
         "OSL-3.0",
