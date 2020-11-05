@@ -4,6 +4,18 @@
 
 This is a Magento 2 Child Theme from Luma starter pack which you can customize and apply your wanted styles on your store.
 
+## Features
+|🛠|Includes|
+|:-:|:---|
+|📦| Theme Administrator |
+|🔥| Bootstrap Grid and Font Awesome |
+|🎨| Less file |
+|🎒| Code Minification |
+|🌈| Easy Modification for colors |
+|📱| Media Queries for Responsive |
+|🤖| External Libraries |
+|🛎| Production ready ZIP theme |
+
 ## Installation
 
 Download this repository and drag the files into this path. `app/design/frontend`
@@ -30,4 +42,4 @@ https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-apply.ht
 
 ## Author
 
-* **Zekinah Lecaros** - *Initial work* - [Zekinah Lecaros](https://github.com/zekinah)
+* **Zekinah Lecaros** - *Initial work* - [Zekinah Lecaros](http://www.zekinahlecaros.com/)
