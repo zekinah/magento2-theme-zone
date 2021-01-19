@@ -7,7 +7,6 @@ This is a Magento 2 Child Theme from Luma starter pack which you can customize a
 ## Features
 |🛠|Includes|
 |:-:|:---|
-|📦| Theme Administrator |
 |🔥| Bootstrap Grid and Font Awesome |
 |🎨| Less file |
 |🎒| Code Minification |
@@ -42,4 +41,4 @@ https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-apply.ht
 
 ## Author
 
-* **Zekinah Lecaros** - *Initial work* - [Zekinah Lecaros](http://www.zekinahlecaros.com/)
+* **[Zekinah Lecaros](https://www.zekinahlecaros.com/)** - *Initial work*
