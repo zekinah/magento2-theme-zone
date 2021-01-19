@@ -2,7 +2,6 @@
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <head>
       <!-- To add css/js from external resources -->
-      <css src="css/styles.css"/>
       <css src="css/bootstrap-grid.css"/>
       <css src="css/zoneslick.min.css"/>
       <css src="https://use.fontawesome.com/releases/v5.7.1/css/all.css" src_type="url"/>
